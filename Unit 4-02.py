@@ -1,8 +1,8 @@
 # Created by: Chris Asante
-# Created on: 11-Feb-2019
+# Created on: 28-March-2019
 # Created for: ICS3U
-# Daily Assignment – Unit 4-02
-# This is a program that rounds decimals
+# Daily Assignment â€“ Unit 4-02
+# This is a program that rounds off decimals
 
 def calculate_decimal(number, decimal_points):
 
