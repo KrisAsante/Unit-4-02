@@ -13,5 +13,5 @@ def calculate_decimal(number, decimal_points):
     print (final_answer)
 
 user_number = float(input("Enter the decimal number: "))
-user_decimal_points = int(input("Enter how may decimal points you want to round off to: "))
+user_decimal_points = int(input("Enter how many decimal points you want to round off to: "))
 calculate_decimal(user_number, user_decimal_points)
